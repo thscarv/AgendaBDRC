@@ -4,8 +4,8 @@ import funcoes
 funcoes.bemvindo()
 
 #Opcoes do Usuario
-opcao = int(raw_input())
-print("Selecionou a ", opcao)
+opcao = int(input())
+print("Selecionou a opcao")
 
 
 #Estrutura de controle
